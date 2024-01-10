@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Crc
+class Crc 
 {
     public String crc (String dividend, String divisor)
     {
